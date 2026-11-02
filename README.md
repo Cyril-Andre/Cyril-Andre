@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Cyril André — Understand. Build. Validate." width="100%">
+  <img src="assets/banner.svg" alt="Cyril André — Understand. Build. Validate." width="100%">
 </p>
 
 <p align="center"><strong>Software Architect · Engineering Lead · AI-assisted Software Engineering</strong><br>
