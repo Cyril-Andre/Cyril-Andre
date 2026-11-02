@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+<title id="title">Cyril André — Understand. Build. Validate.</title>
+<desc id="desc">Dark blue panoramic mountain landscape with cyan circuit-like pathways and a sunrise.</desc>
+<defs>
+<linearGradient id="sky" x2="1" y2="1"><stop stop-color="#09182e"/><stop offset=".58" stop-color="#153c63"/><stop offset="1" stop-color="#283d5c"/></linearGradient>
+<radialGradient id="sun"><stop stop-color="#ffd7a4" stop-opacity=".95"/><stop offset=".35" stop-color="#e78c91" stop-opacity=".4"/><stop offset="1" stop-color="#e78c91" stop-opacity="0"/></radialGradient>
+<linearGradient id="cyan"><stop stop-color="#16d7ed"/><stop offset="1" stop-color="#7ddffb"/></linearGradient>
+</defs>
+<rect width="1280" height="280" rx="14" fill="url(#sky)"/>
+<circle cx="1080" cy="100" r="155" fill="url(#sun)"/>
+<path d="M480 253 655 154 717 181 818 95 886 142 985 73 1054 117 1154 70 1280 147V280H480Z" fill="#183656"/>
+<path d="M560 280 735 175 821 197 929 105 1027 157 1123 106 1280 167V280Z" fill="#102944"/>
+<path d="M680 280 853 207 941 221 1066 166 1151 207 1280 185V280Z" fill="#0a203a"/>
+<path d="M688 272C850 260 853 231 956 221S1156 173 1077 158 1009 192 1125 177" fill="none" stroke="#18d5f3" stroke-width="3" opacity=".9"/>
+<g fill="#a7f6ff" stroke="#16cfea" stroke-width="2"><circle cx="956" cy="221" r="5"/><circle cx="1077" cy="158" r="5"/><circle cx="1125" cy="177" r="5"/></g>
+<rect x="50" y="45" width="5" height="55" rx="2" fill="url(#cyan)"/>
+<text x="79" y="81" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="35" fill="#fff">Cyril André</text>
+<text x="79" y="111" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3" fill="#8ae6ff">SOFTWARE ENGINEERING · ARCHITECTURE · AI</text>
+<text x="51" y="177" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="39" fill="#fff">Understand. Build. Validate.</text>
+<text x="53" y="211" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#cde8f6">From human intent to local agentic development and software quality.</text>
+</svg>
